@@ -21,4 +21,4 @@ Godfather ipsum dolor sit amet. I am sorry. What happened to your father was bus
 
 ### Copyright
 
-Git.Training
+Git.Training All rights reserved.
